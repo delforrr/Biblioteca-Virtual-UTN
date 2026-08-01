@@ -22,5 +22,13 @@
         "subject": "Sistemas Operativos",
         "description": "Libro de referencia para la materia Sistemas Operativos",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1cxgvbD2wfW9sPxfUSzPkxegt9Hz1GSueg&s"
+    },
+    {
+        "id": 4,
+        "title": "Lenguaje de Modelado Unificado UML",
+        "author": "Booch, Rumbaugh, Jacobson",
+        "subject": "Otros",
+        "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/88/fb/88fb0b35d571cadd98bbe48876547b4f.jpg",
+        "description": "Diagramas de UML para Ingeniería de Software."
     }
 ]
